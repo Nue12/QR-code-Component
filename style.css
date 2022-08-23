@@ -1,0 +1,48 @@
+body {
+    font-family: 'Outfit', sans-serif;
+    background-color: hsl(212, 45%, 89%);
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.card-container {
+    max-width: 280px;
+    margin: auto;
+    background-color: hsl(0, 0%, 100%);
+    padding: 15px;
+    border-radius: 10px;
+    margin-top: 60px;
+}
+
+.qrCodeImg {
+    width: 100%;
+    border-radius: 5px;
+}
+
+.content-container {
+    text-align: center;
+    padding: 10px;
+}
+
+h2 {
+    font-weight: 700;
+}
+
+p {
+    color: hsl(220, 15%, 55%);
+}
+
+
+
+
+
+
+.attribution { 
+    margin-top: 20px;
+    font-size: 11px; 
+    text-align: center; 
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
